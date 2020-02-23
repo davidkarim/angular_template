@@ -27,6 +27,6 @@ git remote set-url origin <https or ssl-url>
 ```
 ng new sampleapp
 cd sampleapp
-# Start rails server
-rails s --binding=0.0.0.0
+# Start Angular server
+ng serve
 ```
