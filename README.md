@@ -28,5 +28,5 @@ git remote set-url origin <https or ssl-url>
 ng new sampleapp
 cd sampleapp
 # Start Angular server
-ng serve
+ng serve --host 0.0.0.0
 ```
